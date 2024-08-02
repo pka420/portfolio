@@ -1,0 +1,54 @@
+# Site settings
+title: "Resume"
+description: "Resume for PK"
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+port: 5000
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Piyush Khurana"
+resume_title:                   "Developer"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "pka420@proton.me"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_address:         "Delhi"
+
+resume_header_contact_info:     "Delhi"
+display_header_contact_info:    "false"
+
+resume_header_intro: "<p>Welcome to this corner of the Internet. I am a seasoned developer with expertise in web-dev and data-processing. I am dedicated to develop tools that genuinely help people.</p>"
+
+resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        true
+resume_section_skills:          true
+#resume_section_recognition:     true
+#resume_section_links:           true
+#resume_section_associations:    true
+resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/pka420"
+  resume_twitter_url:           "https://x.com/PiyushK038"
+  resume_linkedin_url:          "https://www.linkedin.com/in/pka42/"
+  #resume_website_url:           "https://www.piyushkhurana.from-delhi.net"
+  resume_medium_url:            "https://medium.com/@piyushkhurana38"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+

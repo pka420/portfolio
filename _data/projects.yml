@@ -1,0 +1,26 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# Reflecto
+- project: Reflecto Trend
+  id: 1
+  role: Co-Founder
+  duration: 2024
+  url: "https://reflecto-trend.from-delhi.net"
+  description: Tool to find similar patterns in cryptocurrency.
+
+# CoinScrapper
+- project: CoinScrapper
+  id: 2
+  role: Developer
+  duration: 2024
+  url: "https://github.com/pka420/coinScrapper"
+  description: Scraps CoinMarketApp website for market information
+
+# Vending Machine Controller
+- project: Vending Machine Controller
+  id: 3
+  role: Co-dev
+  duration: 2020
+  url: "https://github.com/pka420/Vending-machine-controller"
+  description: FPGA model for controlling vending machine, written in Quartus using VHDL
