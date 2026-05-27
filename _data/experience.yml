@@ -1,67 +1,43 @@
 # Jobs
-# VP of Global Communications
+- company: Voronoi Health Analytics
+  position: Software Developer
+  duration: Feb, 2025 &mdash; Present
+  summary: "<ul>
+    <li>
+    Converted MATLAB scripts into Windows desktop applications using Electron, React, and the
+    MATLAB Engine API.
+    </li>
+    <li>
+    Debugged a proprietary 3D Slicer-based application built with Qt and C++, and extended it
+    with unit tests.
+    </li>
+    <li>
+    Built a full-stack Electron + Django application to interface with PACS systems and support
+    research pipeline management and dashboards.
+    </li>
+    <li>
+    Leveraged Claude Code and other AI agents to accelerate development workflows and improve
+    productivity across projects.
+    </li>
+    </ul>"
+
 - company: Faisal
-  position: Developer
+  position: Freelance Developer
   url: "https://www.sfu.ca/~mfbeg/"
   duration: Jan, 2021 &mdash; Present
-  summary: " <ul>
-    <li> Worked as a full-stack developer and created RESTful
-    APIs that allowed for seamless integration with other applications.
-    Then merged third party APIs into our web-app for efficient workflows. </li>
-    <li> Developed robust automation tools, including backup
-    scripts and data-processing pipelines, streamlining
-    operational processes and enhancing system
-    reliability.
-    </li>
-    <li> Spearheaded a team of developers in designing and
-    implementing a comprehensive scheduling system,
-    demonstrating strong leadership and project
-    management skills.
-    </li>
-    <li>
-    Specialized in using Slicer 3D for processing medical
-    images, including CT scans, MRIs, and PETs,
-    contributing to advancements in medical imaging and
-    analysis.
-    </li>
-    <li>
-    Consistently identified and solved complex technical challenges, contributing to the continuous improvement of project functionality and user experience.
-    </li>
+  summary: "<ul>
+    <li>Built RESTful APIs and integrated third-party services into a full-stack web application.</li>
+    <li>Developed automation tools including backup scripts and data-processing pipelines.</li>
+    <li>Led a team to design and implement a scheduling system from requirements through deployment.</li>
+    <li>Processed medical images (CT, MRI, PET) using 3D Slicer for analysis and research workflows.</li>
     </ul>"
 
-# Director of Digital Stratgy
 - company: Tutor Doctor
   position: Tutor
-  duration:  Sept, 2021 &mdash; Jan, 2022
-  summary: "<ul>
-    <li>
-    Provided personalized one-on-one tutoring sessions in Math and Science subjects, catering to students' individual learning needs and academic goals.
-    </li>
-    <li>
-    Utilized effective teaching methodologies to simplify complex concepts, improve understanding, and foster student engagement and confidence in Math and Science topics.
-    </li>
-    <li>
-    Developed customized lesson plans and learning strategies based on students' strengths, weaknesses, and learning styles, resulting in significant improvements in grades and academic performance.i>
-    </li>
-    </ul>"
+  duration: Sept, 2021 &mdash; Jan, 2022
+  summary: "Provided one-on-one Math and Science tutoring with customised lesson plans tailored to individual learning needs."
 
-# Communications Coordinator
 - company: Freshii
   position: Team Member
-  duration: Jan, 2019  &mdash; Dec, 2020
-  summary: "<ul>
-    <li>
-    Developed and maintained customer service policies
-    and procedures to ensure adherence to company
-    standards.
-    </li>
-    Followed safety protocols and sanitized kitchen
-    equipment to ensure food safety standards were met.
-    Monitored food inventory and placed orders for
-    supplies.
-    <li>
-    Trained and mentored new team members to ensure
-    they quickly learned the required skills and processes
-    </li>
-    </ul>
-    "
+  duration: Jan, 2019 &mdash; Dec, 2020
+  summary: "Maintained customer service standards, trained new team members, and managed food inventory."

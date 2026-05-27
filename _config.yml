@@ -1,6 +1,7 @@
 # Site settings
+url: "https://piyushkhurana.from-delhi.net"
 title: "Resume"
-description: "Resume for PK"
+description: "Software Developer specialising in full-stack web, desktop, and medical imaging applications."
 
 # Build settings
 markdown: kramdown

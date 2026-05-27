@@ -1,26 +1,21 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
-
-# Reflecto
 - project: Reflecto Trend
   id: 1
   role: Co-Founder
   duration: 2024
   url: "https://reflecto-trend.from-delhi.net"
-  description: Tool to find similar patterns in cryptocurrency.
+  description: Cryptocurrency pattern-matching tool built with Python and React, identifying similar historical price movements to inform trading decisions.
 
-# CoinScrapper
 - project: CoinScrapper
   id: 2
   role: Developer
   duration: 2024
   url: "https://github.com/pka420/coinScrapper"
-  description: Scraps CoinMarketApp website for market information
+  description: Scrapes CoinMarketCap for real-time market data using Python and Selenium, with automated data extraction and storage.
 
-# Vending Machine Controller
 - project: Vending Machine Controller
   id: 3
   role: Co-dev
   duration: 2020
   url: "https://github.com/pka420/Vending-machine-controller"
-  description: FPGA model for controlling vending machine, written in Quartus using VHDL
+  description: FPGA-based vending machine controller implemented in VHDL using Quartus, handling coin detection, item selection, and change dispensing logic.

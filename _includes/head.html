@@ -12,6 +12,19 @@
 
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
+  <!-- SEO -->
+  <meta name="author" content="{{ site.resume_name }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ site.resume_name }} — {{ site.resume_title }}">
+  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <meta property="og:image" content="{{ site.url }}/images/avatar.jpeg">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@PiyushK038">
+  <meta name="twitter:title" content="{{ site.resume_name }} — {{ site.resume_title }}">
+  <meta name="twitter:description" content="{{ site.description }}">
+  <meta name="twitter:image" content="{{ site.url }}/images/avatar.jpeg">
+
   <link rel="stylesheet" href="css/main.css">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="icon" type="image/x-icon" href="favicon.png" />
