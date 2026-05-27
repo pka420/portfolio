@@ -1,20 +1,28 @@
 # Projects
-- project: Reflecto Trend
+
+- project: SlicerConnect 
   id: 1
+  role: Co-Founder
+  duration: 2026
+  url: "https://slicerconnect.from-delhi.net"
+  description: Enhancing 3d slicer for real-time multi-user colllaboration. Helps users edit segmentations together. Built with fastAPI, websockets and qt.
+
+- project: Reflecto Trend
+  id: 2
   role: Co-Founder
   duration: 2024
   url: "https://reflecto-trend.from-delhi.net"
   description: Cryptocurrency pattern-matching tool built with Python and React, identifying similar historical price movements to inform trading decisions.
 
 - project: CoinScrapper
-  id: 2
+  id: 3
   role: Developer
   duration: 2024
   url: "https://github.com/pka420/coinScrapper"
   description: Scrapes CoinMarketCap for real-time market data using Python and Selenium, with automated data extraction and storage.
 
 - project: Vending Machine Controller
-  id: 3
+  id: 4
   role: Co-dev
   duration: 2020
   url: "https://github.com/pka420/Vending-machine-controller"
