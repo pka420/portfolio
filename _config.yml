@@ -9,6 +9,10 @@ sass:
   sass_dir: _sass
   style: compressed
 
+# Files excluded from the built site
+exclude:
+  - wrangler.toml
+
 port: 5000
 
 # Resume settings
